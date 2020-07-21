@@ -1,0 +1,3 @@
+[submodule "vulcan"]
+	path = vulcan
+	url = https://github.com/sancus-tee/vulcan
